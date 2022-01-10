@@ -15,7 +15,7 @@ Live demo [link](https://naskhalil.github.io/react-todo-app-tuto/)
 
 ## Screenshot
 
-![](./src/images/screenshot.png)
+![](./src/media/screenshot.png)
 
 ## Getting Started
 
