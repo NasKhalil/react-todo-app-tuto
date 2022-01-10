@@ -86,10 +86,10 @@ const TodoContainer = () => {
         )}
         />
         <Route
-          path="/about"
+          path="/about/*"
           element={
             <About />
-        }
+          }
         />
         <Route path="*" element={<NotMatch />} />
       </Switch>

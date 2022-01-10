@@ -9,6 +9,13 @@ It is a Single Page App (SPA) that allows users to:
 - Delete todo.
 - Navigate between pages with react router.
 - Data in this app has been preserved using `localStorage`. 
+## Live demo link
+
+Live demo [link](https://naskhalil.github.io/react-todo-app-tuto/)
+
+## Screenshot
+
+![](./src/images/screenshot.png)
 
 ## Getting Started
 
